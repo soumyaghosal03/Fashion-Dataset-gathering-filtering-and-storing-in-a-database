@@ -15,9 +15,13 @@ Code (scripts and Jupyter notebooks) are released under the GPLv3 license for no
 
 ## Documentation
 
-With the following link, the slides will provide step by step guide about the project.
+The slide show for the project can be downloaded from the 'Fashion Dataset gathering, filtering and storing.pdf' file.
 
-[Slides for project](https://1drv.ms/p/s!AgCW1RBfhnLzkmfV46FryPHqd9y_?e=m1rp7d)
+
+
+
+
+
 
 
 
